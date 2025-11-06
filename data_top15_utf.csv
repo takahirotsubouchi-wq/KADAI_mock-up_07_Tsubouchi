@@ -1,0 +1,591 @@
+﻿paper,title,author,affiliation
+s1-1,過給直噴水素エンジンの燃焼可視化,丸井　勇介,本田技研工業
+s1-1,過給直噴水素エンジンの燃焼可視化,二宮　至成,スズキ
+s11-2,Securitization of an automotive FOTA process in compliance with UNECE R155 &amp; R156,Sergi Arjona,Applus+ IDIADA
+s11-3,WPA3 technology in Automotive: Enhancing security for connected vehicles.,Ismael Vera,Applus+ IDIADA
+s1-2,筒内直噴水素エンジンと吸気ポート噴射水素エンジンの排気NOx等の比較,香川　祐太,スズキ
+s1-2,筒内直噴水素エンジンと吸気ポート噴射水素エンジンの排気NOx等の比較,松下　耕一郎,本田技研工業
+s12-1,Firmware Security Module,Claude-Pascal Stoeber-Schmidt,IAV
+s12-1,Firmware Security Module,Marco Siebert,IAV
+s12-1,Firmware Security Module,Philipp Jungklass,IAV
+s12-2,Secure agile software development in the automotive industry,Carsten Elvers,IAV
+s12-2,Secure agile software development in the automotive industry,Claude-Pascal Stoeber-Schmidt,IAV
+s12-2,Secure agile software development in the automotive industry,Philipp Jungklass,IAV
+s12-3,Penetration testing of automotive systems,Claude-Pascal Stoeber-Schmidt,IAV
+s12-3,Penetration testing of automotive systems,Marco Siebert,IAV
+s12-3,Penetration testing of automotive systems,Philipp Jungklass,IAV
+s13-3,パルス電流の波形制御と休止時間自動制御による高板厚比三枚重ねスポット溶接技術の開発（その1）<br>-CDC新スポット溶接技術-,斉藤　仁,本田技研工業
+s13-3,パルス電流の波形制御と休止時間自動制御による高板厚比三枚重ねスポット溶接技術の開発（その1）<br>-CDC新スポット溶接技術-,渡邉　信也,本田技研工業
+s13-3,パルス電流の波形制御と休止時間自動制御による高板厚比三枚重ねスポット溶接技術の開発（その1）<br>-CDC新スポット溶接技術-,譚　錫昊,本田技研工業
+s13-4,パルス電流の波形制御と休止時間自動制御による高板厚比三枚重ねスポット溶接技術の開発（その2）<br>-CDC新スポット溶接技術-,斎藤　仁,本田技研工業
+s13-4,パルス電流の波形制御と休止時間自動制御による高板厚比三枚重ねスポット溶接技術の開発（その2）<br>-CDC新スポット溶接技術-,渡邉　信也,本田技研工業
+s13-4,パルス電流の波形制御と休止時間自動制御による高板厚比三枚重ねスポット溶接技術の開発（その2）<br>-CDC新スポット溶接技術-,譚　錫昊,本田技研工業
+s1-4,急速圧縮機を用いた水素空気予混合火炎における燃焼過程の近赤外二色法温度計測と数値解析,松下　耕一朗,本田技研工業
+s1-4,急速圧縮機を用いた水素空気予混合火炎における燃焼過程の近赤外二色法温度計測と数値解析,二宮　至成,スズキ
+s14-1,内装インパネへのスエード材貼り込み技術構築<br>-Development of Suede Material Application Technology for Interior Instrument Panels.-,今井　健斗,本田技研工業
+s14-1,内装インパネへのスエード材貼り込み技術構築<br>-Development of Suede Material Application Technology for Interior Instrument Panels.-,新野　雄史,本田技研工業
+s14-4,画像解析を用いた工程解析システムの開発（第1報）<br>-物流工程効率に対する自動解析システムの実用性検証-,新谷　和宏,トヨタ自動車
+s14-4,画像解析を用いた工程解析システムの開発（第1報）<br>-物流工程効率に対する自動解析システムの実用性検証-,森下　浩文,トヨタ自動車
+s14-4,画像解析を用いた工程解析システムの開発（第1報）<br>-物流工程効率に対する自動解析システムの実用性検証-,杉野　択真,トヨタ自動車
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,横森　蒼司,東京都市大学
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,加賀　裕貴,東京都市大学
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,岩田　拓実,東京都市大学
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,及川　昌訓,東京都市大学
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,佐野　堅一,本田技研工業
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,三原　雄司,東京都市大学
+s1-5,モーターサイクル用水素エンジンの空気過剰率と回転速度が瞬時熱流束に与える影響,二宮　至成,スズキ
+s15-1,エンジンの燃費を向上する燃焼室高応答遮熱材料技術の開発（第4報）<br>-遮熱膜の密着モデルと下地加工モデルの構築-,山村　海,マツダ
+s15-3,ボディ熱変形CAEの活用によるマスチック適用部の品質向上,安江　萌恵,スズキ
+s15-3,ボディ熱変形CAEの活用によるマスチック適用部の品質向上,樫山　武士,スズキ
+s15-3,ボディ熱変形CAEの活用によるマスチック適用部の品質向上,大井　宏一郎,スズキ
+s15-3,ボディ熱変形CAEの活用によるマスチック適用部の品質向上,大堀　敏郎,スズキ
+s15-4,水平リサイクルに向けた廃車より回収したシートベルトウェビングの製造年分布と汚れ・劣化状態の分析(第1報),小林　正俊,本田技術研究所
+s15-4,水平リサイクルに向けた廃車より回収したシートベルトウェビングの製造年分布と汚れ・劣化状態の分析(第1報),福田　猛,本田技術研究所
+s17-2,インホイールモーターの回転数変動情報に基づくトラクション制御手法の開発,安島　俊幸,日立製作所
+s17-2,インホイールモーターの回転数変動情報に基づくトラクション制御手法の開発,山崎　勝,日立製作所
+s17-2,インホイールモーターの回転数変動情報に基づくトラクション制御手法の開発,初瀬　渉,日立製作所
+s17-3,インホイールモーターの制駆動力を用いた乗り心地を向上させる車両上下振動の制御技術の開発,安島　俊幸,日立製作所
+s17-3,インホイールモーターの制駆動力を用いた乗り心地を向上させる車両上下振動の制御技術の開発,山崎　勝,日立製作所
+s17-3,インホイールモーターの制駆動力を用いた乗り心地を向上させる車両上下振動の制御技術の開発,八田　直樹,日立製作所
+s17-4,目標車両モデルを内包するモデル予測制御を用いた走行安定化技術,小原　大輝,日立製作所
+s17-4,目標車両モデルを内包するモデル予測制御を用いた走行安定化技術,石原　新士,日立製作所
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,加藤　英晃,東海大学
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,吉田　郁也,東海大学
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,呉　文宝,東海大学
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,黒田　純平,東海大学
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,小林　一景,東海大学
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,成田　正敬,東海大学
+s17-5,トレイルブレーキング操作による車両旋回挙動への影響,傅　李汀,東海大学
+s18-1,Verification of PBV driving performance for universal mobility using suspension module test rig,David Song,Hyundai Motor
+s18-1,Verification of PBV driving performance for universal mobility using suspension module test rig,Hyunjae Lee,Hyundai Motor
+s18-1,Verification of PBV driving performance for universal mobility using suspension module test rig,Jongho Ko,Hyundai Motor
+s18-1,Verification of PBV driving performance for universal mobility using suspension module test rig,Seonghun Kim,Hyundai Motor
+s18-1,Verification of PBV driving performance for universal mobility using suspension module test rig,Seungmin Kwon,Hyundai Motor
+s18-1,Verification of PBV driving performance for universal mobility using suspension module test rig,Yongsub Yi,Hyundai Motor
+s18-2,Development of MF(Magic Formula) Tire Model Application Technique,Jinhee Lee,Hyundai Motor
+s18-3,A Study on Harmonic Performance for EV SUV Aftershock Improvement<br>-In View of Frequency Seperation and Bushing Cahracteristics-,DAE-UN SUNG,Hyundai Motor
+s18-3,A Study on Harmonic Performance for EV SUV Aftershock Improvement<br>-In View of Frequency Seperation and Bushing Cahracteristics-,TAEHEE LEE,Hyundai Motor
+s18-3,A Study on Harmonic Performance for EV SUV Aftershock Improvement<br>-In View of Frequency Seperation and Bushing Cahracteristics-,YONG-HYUN RYU,Hyundai Motor
+s19-1,ロードノイズ低減のための機械学習による車両各部の目標特性決定手法（第2報）<br>-複数解探索手法の構築-,市川　佳,本田技研工業
+s19-1,ロードノイズ低減のための機械学習による車両各部の目標特性決定手法（第2報）<br>-複数解探索手法の構築-,堤　純,本田技研工業
+s19-1,ロードノイズ低減のための機械学習による車両各部の目標特性決定手法（第2報）<br>-複数解探索手法の構築-,島村　雄太,本田技研工業
+s20-1,機構解析・機械学習のハイブリッドモデル構築と駆動系捩り振動開発での適用,Roberto Gonzalez Flores,マツダ
+s20-1,機構解析・機械学習のハイブリッドモデル構築と駆動系捩り振動開発での適用,近末　竜,マツダ
+s20-1,機構解析・機械学習のハイブリッドモデル構築と駆動系捩り振動開発での適用,工藤　健志,マツダ
+s20-1,機構解析・機械学習のハイブリッドモデル構築と駆動系捩り振動開発での適用,森田　聖惇,マツダ
+s20-1,機構解析・機械学習のハイブリッドモデル構築と駆動系捩り振動開発での適用,田中　和宏,マツダ
+s20-2,HEVダンパ特性によるTHSエンジン起動時振動メカニズム解析,金子　広孝,トヨタ自動車
+s20-2,HEVダンパ特性によるTHSエンジン起動時振動メカニズム解析,佐川　正記,トヨタ自動車
+s20-2,HEVダンパ特性によるTHSエンジン起動時振動メカニズム解析,清水　聡,トヨタ自動車
+s20-2,HEVダンパ特性によるTHSエンジン起動時振動メカニズム解析,末益　賢治,トヨタ自動車
+s20-2,HEVダンパ特性によるTHSエンジン起動時振動メカニズム解析,野竹　勇貴,トヨタ自動車
+s20-3,半無響環境PT-VRSの車両振動騒音開発への適用,駒田　匡史,トヨタ自動車
+s20-3,半無響環境PT-VRSの車両振動騒音開発への適用,小鍜治　純,トヨタ自動車
+s20-3,半無響環境PT-VRSの車両振動騒音開発への適用,森田　英憲,トヨタ自動車
+s20-3,半無響環境PT-VRSの車両振動騒音開発への適用,成田　善英,トヨタ自動車
+s2-1,λ=1過給直噴水素エンジンの開発,臼井　雄太郎,スズキ
+s2-1,λ=1過給直噴水素エンジンの開発,吉村　佳,スズキ
+s2-1,λ=1過給直噴水素エンジンの開発,中間　健二郎,スズキ
+s2-1,λ=1過給直噴水素エンジンの開発,渡邉　直人,スズキ
+s21-3,高減衰化によって体の動きを低減させるシート構造,稲葉　修,本田技研工業
+s21-3,高減衰化によって体の動きを低減させるシート構造,小林　幸夫,本田技研工業
+s21-3,高減衰化によって体の動きを低減させるシート構造,富田　孝文,本田技研工業
+s21-4,EPS作動音予測に向けたDynamic Substructuringの活用,鎌野　寛隆,トヨタ自動車
+s21-5,ボルト締結部の振動特性に及ぼす接合界面の介在物の影響,岸本　喜直,東京都市大学
+s21-5,ボルト締結部の振動特性に及ぼす接合界面の介在物の影響,小林　志好,東京都市大学
+s22-1,熱弾性温度変動を用いたC-SMCの疲労損傷度評価,佐藤　康元,豊田中央研究所
+s22-1,熱弾性温度変動を用いたC-SMCの疲労損傷度評価,三国　敦,トヨタ自動車
+s22-1,熱弾性温度変動を用いたC-SMCの疲労損傷度評価,濱田　幸宏,トヨタ自動車
+s22-3,複数の破壊形態を考慮した点接合部の疲労強度予測手法<br>-Flow Drilling Screw (FDS)の疲労強度予測手法-,磯野　志之,トヨタ自動車
+s22-3,複数の破壊形態を考慮した点接合部の疲労強度予測手法<br>-Flow Drilling Screw (FDS)の疲労強度予測手法-,浦川　和士,トヨタ自動車
+s22-3,複数の破壊形態を考慮した点接合部の疲労強度予測手法<br>-Flow Drilling Screw (FDS)の疲労強度予測手法-,河村　拓昌,トヨタ自動車
+s22-3,複数の破壊形態を考慮した点接合部の疲労強度予測手法<br>-Flow Drilling Screw (FDS)の疲労強度予測手法-,後藤　卓,トヨタ自動車
+s22-3,複数の破壊形態を考慮した点接合部の疲労強度予測手法<br>-Flow Drilling Screw (FDS)の疲労強度予測手法-,新里　映太,トヨタ自動車
+s22-3,複数の破壊形態を考慮した点接合部の疲労強度予測手法<br>-Flow Drilling Screw (FDS)の疲労強度予測手法-,宅野　聡悟,トヨタ自動車
+s22-6,A Study on Vaporizing foil actuator welding (VFAW) for steel-aluminum dissimilar metals joining without hardware,Changyeol Yoo,Hyundai Motor
+s22-6,A Study on Vaporizing foil actuator welding (VFAW) for steel-aluminum dissimilar metals joining without hardware,Hyuckmin Kwon,Hyundai Motor
+s22-6,A Study on Vaporizing foil actuator welding (VFAW) for steel-aluminum dissimilar metals joining without hardware,Junyeong Jeong,Hyundai Motor
+s22-6,A Study on Vaporizing foil actuator welding (VFAW) for steel-aluminum dissimilar metals joining without hardware,Younil Jung,Hyundai Motor
+s23-4,AIサロゲートを用いた構造体強度開発のプロセス効率化,胡木　隆,マツダ
+s23-4,AIサロゲートを用いた構造体強度開発のプロセス効率化,西川　潤,マツダ
+s23-4,AIサロゲートを用いた構造体強度開発のプロセス効率化,川口　幹祐,マツダ
+s23-4,AIサロゲートを用いた構造体強度開発のプロセス効率化,中野　徹,マツダ
+s23-4,AIサロゲートを用いた構造体強度開発のプロセス効率化,田中　元基,マツダ
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,DongHa Kang,Hyundai Motor
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,HeeBeom Yang,Hyundai Motor
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,JeongMin Kang,Hyundai Motor
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,JungHan Kim,Hyundai Motor
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,SANGJIN LEE,Hyundai Motor
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,SangYoung Im,Hyundai Motor
+s24-1,A Study on the Optimization of Door BIW Structure Using Thin Casting Method,SeongHwan Seo,Hyundai Motor
+s24-2,The Development of the TPV Door Inner Belt WeatherStrip meets Wind Noise Targets and Prevents Glass Sliding Squeak Noise Simultaneously,Boram Kang,Hyundai Motor
+s24-2,The Development of the TPV Door Inner Belt WeatherStrip meets Wind Noise Targets and Prevents Glass Sliding Squeak Noise Simultaneously,Jaehoon Kim,Hyundai Motor
+s24-2,The Development of the TPV Door Inner Belt WeatherStrip meets Wind Noise Targets and Prevents Glass Sliding Squeak Noise Simultaneously,Jeehoon Seong,Hyundai Motor
+s24-2,The Development of the TPV Door Inner Belt WeatherStrip meets Wind Noise Targets and Prevents Glass Sliding Squeak Noise Simultaneously,Jungdae Kim,Hyundai Motor
+s24-2,The Development of the TPV Door Inner Belt WeatherStrip meets Wind Noise Targets and Prevents Glass Sliding Squeak Noise Simultaneously,Sanghyun Lee,Hyundai Motor
+s24-2,The Development of the TPV Door Inner Belt WeatherStrip meets Wind Noise Targets and Prevents Glass Sliding Squeak Noise Simultaneously,Youngchel Sin,Hyundai Motor
+s24-3,Package and design study for application of B pillar less door,CHUNG SIK YIM,Hyundai Motor
+s24-3,Package and design study for application of B pillar less door,HYONG DON KIM,Hyundai Motor
+s24-3,Package and design study for application of B pillar less door,KYU HOON CHO,Hyundai Motor
+s24-3,Package and design study for application of B pillar less door,YONG HYUN NAM,Hyundai Motor
+s24-4,Development of PBV powergate system<br>-High durability powergate mechanism-,Dong wuk Choi,Hyundai Motor
+s24-4,Development of PBV powergate system<br>-High durability powergate mechanism-,Doo young Jung,Hyundai Motor
+s24-4,Development of PBV powergate system<br>-High durability powergate mechanism-,Duck young Kim,Hyundai Motor
+s24-4,Development of PBV powergate system<br>-High durability powergate mechanism-,Jung hoon Park,Hyundai Motor
+s24-5,樹脂部材を含むボルト締結構造体の減衰性能,岸本　喜直,東京都市大学
+s24-5,樹脂部材を含むボルト締結構造体の減衰性能,小林　志好,東京都市大学
+s2-5,低圧直噴水素エンジンにおける高噴射率化が熱効率に与える影響,及川　昌訓,東京都市大学
+s2-5,低圧直噴水素エンジンにおける高噴射率化が熱効率に与える影響,高木　靖雄,東京都市大学
+s2-5,低圧直噴水素エンジンにおける高噴射率化が熱効率に与える影響,三原　雄司,東京都市大学
+s2-5,低圧直噴水素エンジンにおける高噴射率化が熱効率に与える影響,山田　聖哉,東京都市大学
+s2-5,低圧直噴水素エンジンにおける高噴射率化が熱効率に与える影響,畑　航太朗,東京都市大学
+s25-1,Novel AD/ADAS Virtual Validation with Integration of LLM and Digital Twin Technologies,Carsten Simon,IAV
+s25-1,Novel AD/ADAS Virtual Validation with Integration of LLM and Digital Twin Technologies,Dr. Alexander Bradler,IAV
+s25-1,Novel AD/ADAS Virtual Validation with Integration of LLM and Digital Twin Technologies,Dr. Christian Lang,IAV
+s25-1,Novel AD/ADAS Virtual Validation with Integration of LLM and Digital Twin Technologies,Prof. Dr. Reza Rezaei,IAV
+s25-1,Novel AD/ADAS Virtual Validation with Integration of LLM and Digital Twin Technologies,Thorsten Scheibe,IAV
+s25-1,Novel AD/ADAS Virtual Validation with Integration of LLM and Digital Twin Technologies,Yassine Neifer,IAV
+s26-1,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-リアルタイム性を有するダンパーモデルの開発とOEM車両モデルの社内開発への活用-,安達　幸弘,トヨタ自動車
+s26-1,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-リアルタイム性を有するダンパーモデルの開発とOEM車両モデルの社内開発への活用-,岩松　俊介,トヨタ自動車
+s26-1,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-リアルタイム性を有するダンパーモデルの開発とOEM車両モデルの社内開発への活用-,森　和生,トヨタ自動車
+s26-1,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-リアルタイム性を有するダンパーモデルの開発とOEM車両モデルの社内開発への活用-,星　利勝,トヨタ自動車
+s26-1,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-リアルタイム性を有するダンパーモデルの開発とOEM車両モデルの社内開発への活用-,牧野　光徳,トヨタ自動車
+s26-2,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-ドライビングシミュレータを用いた評価手法検討-,安達　幸弘,トヨタ自動車
+s26-2,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-ドライビングシミュレータを用いた評価手法検討-,岩松　俊介,トヨタ自動車
+s26-2,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-ドライビングシミュレータを用いた評価手法検討-,森　和生,トヨタ自動車
+s26-2,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-ドライビングシミュレータを用いた評価手法検討-,星　利勝,トヨタ自動車
+s26-2,OEM-サプライヤ間のモデル流通によるダンパー特性と車両運動性能のモデルベース開発<br>-ドライビングシミュレータを用いた評価手法検討-,牧野　光徳,トヨタ自動車
+s27-1,AIフォーミュラ開催に向けた取り組み,Kota Sakazaki,本田技術研究所
+s27-1,AIフォーミュラ開催に向けた取り組み,安井　裕司,本田技術研究所
+s27-1,AIフォーミュラ開催に向けた取り組み,岡田　眞也,本田技術研究所
+s27-1,AIフォーミュラ開催に向けた取り組み,加藤　敦,本田技術研究所
+s27-1,AIフォーミュラ開催に向けた取り組み,秋元　優輝,本田技術研究所
+s27-1,AIフォーミュラ開催に向けた取り組み,大村　一櫻,本田技術研究所
+s27-4,複数のアプローチによる自動緊急回避ベンチマーク問題の解法探索,安井　裕司,本田技術研究所
+s27-4,複数のアプローチによる自動緊急回避ベンチマーク問題の解法探索,熊野　孝保,本田技術研究所
+s27-4,複数のアプローチによる自動緊急回避ベンチマーク問題の解法探索,謝　思暘,本田技術研究所
+s27-5,振動抑制項を加えた多項式回帰による車両の軌道追従制御,戸田　耕佑,本田技術研究所
+s27-5,振動抑制項を加えた多項式回帰による車両の軌道追従制御,後藤　建,本田技術研究所
+s27-5,振動抑制項を加えた多項式回帰による車両の軌道追従制御,小川　和樹,本田技術研究所
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,伊藤　倫,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,山内　さつき,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,小嶋　理江,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,青木　宏文,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,青木　邦友,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,平野昭夫　平野昭夫,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,米川　隆,名古屋大学
+s28-1,運転指導員による高齢ドライバの市街地運転評価と認知身体特性・運転意識の関係<br>-運転寿命延伸を目指したドライバ運転特性研究(44)-,名切　末晴,名古屋大学
+s28-4,高齢ドライバのフレイル，運転経験および安全欲求の実態<br>-運転寿命延伸を目指したドライバ運転特性研究（45）-,井上　愛子,名古屋大学
+s28-4,高齢ドライバのフレイル，運転経験および安全欲求の実態<br>-運転寿命延伸を目指したドライバ運転特性研究（45）-,青木　宏文,名古屋大学
+s28-4,高齢ドライバのフレイル，運転経験および安全欲求の実態<br>-運転寿命延伸を目指したドライバ運転特性研究（45）-,谷口　俊治,名古屋大学
+s28-4,高齢ドライバのフレイル，運転経験および安全欲求の実態<br>-運転寿命延伸を目指したドライバ運転特性研究（45）-,梅垣　宏行,名古屋大学
+s28-5,タッチパネルディスプレイを用いた運転リスク評価と画像解析から推定された運転リスクの関係,寺山　麻純,名古屋大学
+s28-5,タッチパネルディスプレイを用いた運転リスク評価と画像解析から推定された運転リスクの関係,清水　政行,名古屋大学
+s28-5,タッチパネルディスプレイを用いた運転リスク評価と画像解析から推定された運転リスクの関係,青木　宏文,名古屋大学
+s28-6,異常運転の検知手法開発,伊藤　隆文,デンソー
+s28-6,異常運転の検知手法開発,山岡　将綺,デンソー
+s28-6,異常運転の検知手法開発,山高　大乗,デンソー
+s28-6,異常運転の検知手法開発,中村　典雅,デンソー
+s29-1,自動車の視界性能開発におけるバーチャルリアリティ(VR)の活用に関する研究<br>-VR評価と実車評価の比較検証-,恩田　和征,スズキ
+s29-1,自動車の視界性能開発におけるバーチャルリアリティ(VR)の活用に関する研究<br>-VR評価と実車評価の比較検証-,山﨑　拓真,スズキ
+s29-1,自動車の視界性能開発におけるバーチャルリアリティ(VR)の活用に関する研究<br>-VR評価と実車評価の比較検証-,堀田　英則,スズキ
+s29-1,自動車の視界性能開発におけるバーチャルリアリティ(VR)の活用に関する研究<br>-VR評価と実車評価の比較検証-,髙津　幸広,スズキ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,岡本　宜久,マツダ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,梶川　浩子,マツダ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,佐藤　大地,マツダ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,手嶋　啓太,マツダ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,石井　秀和,マツダ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,竹村　和紘,マツダ
+s29-5,前庭感覚サプライズモデルによる車両挙動評価,渡邊　雅之,マツダ
+s29-6,対話型ユーザインタフェースの認知負荷の簡便な計測法の開発(第2報),岸　浩司,名古屋大学
+s29-6,対話型ユーザインタフェースの認知負荷の簡便な計測法の開発(第2報),青木　宏文,名古屋大学
+s29-7,A Study on the change of bio-signals under driver stress,Baekhee Lee,Hyundai Motor
+s29-7,A Study on the change of bio-signals under driver stress,Yoseob Lee,Hyundai Motor
+s30-4,農業のスマート安全に資するトラクタドライビングシミュレータ,風間　恵介,日本大学
+s3-1,筒内直接噴射式火花点火機関の非定常筒内流動場における噴霧形成過程の解明,原口　茂則,本田技研工業
+s3-1,筒内直接噴射式火花点火機関の非定常筒内流動場における噴霧形成過程の解明,佐藤　義久,本田技研工業
+s31-1,先進安全技術の進化と事故低減効果解析 （第3報）,三田　友紀子,トヨタ自動車
+s31-1,先進安全技術の進化と事故低減効果解析 （第3報）,池田　幸洋,トヨタ自動車
+s31-1,先進安全技術の進化と事故低減効果解析 （第3報）,長谷川　俊,トヨタ自動車
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,Nihan Karatas,名古屋大学
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,横井　康伸,トヨタ自動車
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,吉原　祐器,名古屋大学
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,金森　等,名古屋大学
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,原田　あすか,名古屋大学
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,山田　健一,トヨタ自動車
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,水間　隼人,トヨタ自動車
+s31-4,出会い頭事故防止のための運転介入による減速支援の方法検討,田中　貴紘,名古屋大学
+s31-5,スマートフォンを活用した横断児童接近通知システムの効果評価,安井　智子,トヨタ自動車
+s31-5,スマートフォンを活用した横断児童接近通知システムの効果評価,横井　康伸,トヨタ自動車
+s3-2,内燃機関の設計計算に適用可能な粒径分布予測モデルの開発（第3報）<br>-5成分ガソリンサロゲートに対する検証-,秋濱　一弘,日本大学
+s32-1,V2N技術を用いた危険回避ブレーキ制御システムの成立性検証,入江　喜朗,トヨタ自動車
+s33-1,水素専焼エンジン油圧パワーショベルの実証試験に基づく排気特性と燃費性能の評価,伊東　明美,東京都市大学
+s33-2,アルゴン循環型2サイクル水素エンジンの研究,阿部　貴大,東海大学
+s33-2,アルゴン循環型2サイクル水素エンジンの研究,王　喆,東海大学
+s33-2,アルゴン循環型2サイクル水素エンジンの研究,陳　之立,東海大学
+s33-3,アルゴン循環型水素エンジンにおける循環系加圧の研究,近藤　憂樂,東海大学
+s33-3,アルゴン循環型水素エンジンにおける循環系加圧の研究,清川　凌太,東海大学
+s33-3,アルゴン循環型水素エンジンにおける循環系加圧の研究,陳　之立,東海大学
+s33-6,水素エンジンの異常燃焼のメカニズム解明（第二報　可視化による異常燃焼箇所の調査）,Pravin Ananta Kadu,スズキ
+s33-6,水素エンジンの異常燃焼のメカニズム解明（第二報　可視化による異常燃焼箇所の調査）,吉村　佳,スズキ
+s33-6,水素エンジンの異常燃焼のメカニズム解明（第二報　可視化による異常燃焼箇所の調査）,村松　恵治,スズキ
+s33-6,水素エンジンの異常燃焼のメカニズム解明（第二報　可視化による異常燃焼箇所の調査）,中間　健二郎,スズキ
+s33-6,水素エンジンの異常燃焼のメカニズム解明（第二報　可視化による異常燃焼箇所の調査）,徳原　聡,スズキ
+s34-4,水素エンジンの異常燃焼に関する研究<br>-ノッキング予測モデルの構築-,増田　糧,豊田中央研究所
+s35-2,自動運転モビリティにおけるモデル予測制御による複数サービス指標の改善,長谷島　範安,日立製作所
+s35-2,自動運転モビリティにおけるモデル予測制御による複数サービス指標の改善,齋藤　哲平,日立製作所
+s35-4,車載カメラ映像とマルチモーダル大規模言語モデルによる先進運転支援システムの改善支援技術,羅　智圓,日立製作所
+s35-4,車載カメラ映像とマルチモーダル大規模言語モデルによる先進運転支援システムの改善支援技術,露木　雅文,日立製作所
+s36-1,ステレオマッチングによるマルチカメラ向けBEVモデルの高精度化,城戸　英彰,日立製作所
+s36-1,ステレオマッチングによるマルチカメラ向けBEVモデルの高精度化,田仲　結衣,日立製作所
+s36-1,ステレオマッチングによるマルチカメラ向けBEVモデルの高精度化,土屋　舜太郎,日立製作所
+s36-1,ステレオマッチングによるマルチカメラ向けBEVモデルの高精度化,二宮　洸,日立製作所
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,永井　隆之,トヨタ自動車
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,岩田　隆道,豊田中央研究所
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,原　昌司,豊田中央研究所
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,高尾　尚史,豊田中央研究所
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,山田　大介,豊田中央研究所
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,小林　哲郎,豊田中央研究所
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,石田　栄治,トヨタ自動車
+s38-4,自動車のサーキュラーエコノミー指標の提案 第2報<br>-資源価値と資源循環の質を考慮したサーキュラーエコノミー指標の試算-,増田　仁郎,トヨタ自動車
+s39-2,PEFCの単セル評価における高温運転条件の影響,酒井　智一,トヨタ自動車
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Axel Seiffert,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Hein Beier,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Hubertus Christian Ulmer,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Lorenz von Roemer,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Martin Weber,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Nils Bronder,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Thaddaeus Delebinski,IAV
+s39-4,H2 Internal Combustion Engines for Commercial Vehicles<br>-Increasing Power Density by Low Pressure Direct Injection-,Thomas Kemski,IAV
+s4-1,ギヤ撹拌における各種計算法の比較(第2報)<br>-飛沫の予測精度に対する考察と実用的な改善方法の提案-,加藤　維識,本田技術研究所
+s4-1,ギヤ撹拌における各種計算法の比較(第2報)<br>-飛沫の予測精度に対する考察と実用的な改善方法の提案-,三枝　大城,本田技研工業
+s4-1,ギヤ撹拌における各種計算法の比較(第2報)<br>-飛沫の予測精度に対する考察と実用的な改善方法の提案-,山田　直,トヨタ自動車
+s4-1,ギヤ撹拌における各種計算法の比較(第2報)<br>-飛沫の予測精度に対する考察と実用的な改善方法の提案-,中島　聖,マツダ
+s41-3,450kW走行中充電インフラのバス高速輸送システム（BRT）への適用方法の研究,田島　孝光,本田技術研究所
+s4-2,高回転トラクションドライブの研究<br>-大減速比実験とユニット構成-,山本　建,東海大学
+s4-2,高回転トラクションドライブの研究<br>-大減速比実験とユニット構成-,賈　悦辰,東海大学
+s43-4,構成機器をコンパクトに一体化したランキンサイクル発電機の開発<br>-第8報 金属製化と冷媒による実験-,大塚　賢哉,日本大学
+s43-4,構成機器をコンパクトに一体化したランキンサイクル発電機の開発<br>-第8報 金属製化と冷媒による実験-,中川　千種,日本大学
+s43-4,構成機器をコンパクトに一体化したランキンサイクル発電機の開発<br>-第8報 金属製化と冷媒による実験-,殿岡　奈々,日本大学
+s43-4,構成機器をコンパクトに一体化したランキンサイクル発電機の開発<br>-第8報 金属製化と冷媒による実験-,田中　勝之,日本大学
+s43-4,構成機器をコンパクトに一体化したランキンサイクル発電機の開発<br>-第8報 金属製化と冷媒による実験-,脇山　哲広,日本大学
+s43-5,重量車のエンジン排熱を用いた5kW級ランキンサイクル発電機によるエネルギー回収の実験<br>-第1報　実験装置の構築と動作確認試験-,加藤　大貴,日本大学
+s43-5,重量車のエンジン排熱を用いた5kW級ランキンサイクル発電機によるエネルギー回収の実験<br>-第1報　実験装置の構築と動作確認試験-,小櫃　竜太郎,日本大学
+s43-5,重量車のエンジン排熱を用いた5kW級ランキンサイクル発電機によるエネルギー回収の実験<br>-第1報　実験装置の構築と動作確認試験-,上遠野　和佳,日本大学
+s43-5,重量車のエンジン排熱を用いた5kW級ランキンサイクル発電機によるエネルギー回収の実験<br>-第1報　実験装置の構築と動作確認試験-,大塚　賢哉,日本大学
+s43-5,重量車のエンジン排熱を用いた5kW級ランキンサイクル発電機によるエネルギー回収の実験<br>-第1報　実験装置の構築と動作確認試験-,田中　勝之,日本大学
+s43-5,重量車のエンジン排熱を用いた5kW級ランキンサイクル発電機によるエネルギー回収の実験<br>-第1報　実験装置の構築と動作確認試験-,齋藤　真成,日本大学
+s44-2,MBDを活用したPBN(Pass-By Noise)モデル構築(第2報)<br>-加速性能向上のためのHEV 1Dシステムモデルと連携したPBNモデル構築-,遠藤　剛,本田技研工業
+s44-2,MBDを活用したPBN(Pass-By Noise)モデル構築(第2報)<br>-加速性能向上のためのHEV 1Dシステムモデルと連携したPBNモデル構築-,岩瀬　裕夢,本田技研工業
+s44-2,MBDを活用したPBN(Pass-By Noise)モデル構築(第2報)<br>-加速性能向上のためのHEV 1Dシステムモデルと連携したPBNモデル構築-,緒方　健一郎,本田技研工業
+s44-2,MBDを活用したPBN(Pass-By Noise)モデル構築(第2報)<br>-加速性能向上のためのHEV 1Dシステムモデルと連携したPBNモデル構築-,中澤　信太,本田技研工業
+s44-2,MBDを活用したPBN(Pass-By Noise)モデル構築(第2報)<br>-加速性能向上のためのHEV 1Dシステムモデルと連携したPBNモデル構築-,鎮田　和哉,本田技研工業
+s45-1,聴覚的注意モデルによる情報伝達音の聴こえやすさ評価,井野　寿信,マツダ
+s45-1,聴覚的注意モデルによる情報伝達音の聴こえやすさ評価,大杉　郁代,マツダ
+s45-1,聴覚的注意モデルによる情報伝達音の聴こえやすさ評価,中谷　裕紀,マツダ
+s45-1,聴覚的注意モデルによる情報伝達音の聴こえやすさ評価,渡邊　雅之,マツダ
+s45-1,聴覚的注意モデルによる情報伝達音の聴こえやすさ評価,萬　菜穂子,マツダ
+s45-3,エンジン背景音を用いたピストン打音評価技術の開発,菊池　正和,マツダ
+s45-3,エンジン背景音を用いたピストン打音評価技術の開発,山本　彩斗,マツダ
+s45-3,エンジン背景音を用いたピストン打音評価技術の開発,松岡　和洋,マツダ
+s45-3,エンジン背景音を用いたピストン打音評価技術の開発,森　恒寛,マツダ
+s45-3,エンジン背景音を用いたピストン打音評価技術の開発,中西　潤二郎,マツダ
+s45-3,エンジン背景音を用いたピストン打音評価技術の開発,野中　康宏,マツダ
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,梓沢　慶介,本田技術研究所
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,久保田　芳永,本田技術研究所
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,轟　拓海,本田技術研究所
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,大矢　聡義,本田技術研究所
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,中富　奏明,本田技術研究所
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,内藤　直也,本田技術研究所
+s47-3,充電機能を統合した電気自動車用eAxleの性能向上,二村　圭哉,本田技術研究所
+s48-1,A Research for AI driven Advanced Performance Evaluation of Exterior Closure System,BYUNG SUNG PARK,Hyundai Motor
+s48-1,A Research for AI driven Advanced Performance Evaluation of Exterior Closure System,MINHYUNG BYUN,Hyundai Motor
+s48-1,A Research for AI driven Advanced Performance Evaluation of Exterior Closure System,SOONHO HER,Hyundai Motor
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,安岡　志朗,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,伊藤　祐太,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,山下　裕矢,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,森國　洋平,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,深尾　勇也,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,菅井　友駿,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,西川　幸治,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,谷口　真潮,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,池内　大貴,トヨタ自動車
+s48-2,3次元形状生成AIの解釈性に基づく自動車空力開発の検討,土山　稔,トヨタ自動車
+s48-6,Establishment of target aero drag and investment criteria considering vehicle characteristics,KWANG CHAN KO,Hyundai Motor
+s48-6,Establishment of target aero drag and investment criteria considering vehicle characteristics,WOOKHYUN HAN,Hyundai Motor
+s49-1,Development Of Indoor Lighting Optimization Through Customer Preference Clinic,DAESEON LEE,Hyundai Motor
+s49-3,Seat Comfort Strategy considering High Performance Vehicle Package Factors,Sunwoo Choi,Hyundai Motor
+s49-4,Impact Energy Absorption and Safety Evaluation of Glass Fiber Reinforced Plastic Composite Leaf Springs for Automotive Applications,SOO SIK CHUNG,Hyundai Motor
+s49-5,A Study on the Multifunctional Protection Bumper cover of Autonomous Driving Sensor,HONGHEUI LEE,Hyundai Motor
+s50-1,側面衝突事故時の車両の回転挙動を考慮したΔV算出方法の検討,安藤　貴裕,トヨタ自動車
+s50-1,側面衝突事故時の車両の回転挙動を考慮したΔV算出方法の検討,吉田　朋巳,トヨタ自動車
+s50-1,側面衝突事故時の車両の回転挙動を考慮したΔV算出方法の検討,勝間田　静江,トヨタ自動車
+s50-1,側面衝突事故時の車両の回転挙動を考慮したΔV算出方法の検討,棚瀬　昇,トヨタ自動車
+s50-1,側面衝突事故時の車両の回転挙動を考慮したΔV算出方法の検討,長岡　靖,トヨタ自動車
+s50-2,深層学習による車両損壊程度の自動検知に関する研究,久保田　和広,日本大学
+s50-2,深層学習による車両損壊程度の自動検知に関する研究,西本　哲也,日本大学
+s50-2,深層学習による車両損壊程度の自動検知に関する研究,中尾　賢人,日本大学
+s5-1,湿式多板クラッチの高回転における引き摺りトルク上昇の検討（第3報）,為貝　仁志,マツダ
+s5-1,湿式多板クラッチの高回転における引き摺りトルク上昇の検討（第3報）,吉末　知弘,マツダ
+s5-1,湿式多板クラッチの高回転における引き摺りトルク上昇の検討（第3報）,胡本　博史,マツダ
+s51-3,車両デザイン検討のための自然言語駆動型3Dデザイン生成技術の研究,伊藤　修,本田技研工業
+s51-3,車両デザイン検討のための自然言語駆動型3Dデザイン生成技術の研究,佐伯　晋,本田技研工業
+s51-3,車両デザイン検討のための自然言語駆動型3Dデザイン生成技術の研究,中川　善和,本田技研工業
+s51-3,車両デザイン検討のための自然言語駆動型3Dデザイン生成技術の研究,白石　淳,本田技研工業
+s51-3,車両デザイン検討のための自然言語駆動型3Dデザイン生成技術の研究,片桐　章彦,本田技研工業
+s52-3,電動小型低速車両(LLV)における加速・減速時の乗員挙動と主観評価,青木　宏文,名古屋大学
+s52-3,電動小型低速車両(LLV)における加速・減速時の乗員挙動と主観評価,米川　隆,名古屋大学
+s52-3,電動小型低速車両(LLV)における加速・減速時の乗員挙動と主観評価,名切　末晴,名古屋大学
+s52-4,Development of a Container-Based Yocto Build System for an Infotainment SW Platform,Joonhyung Kim,Hyundai Motor
+s53-6,飲酒の運転に対する影響評価,伊藤　隆文,デンソー
+s53-6,飲酒の運転に対する影響評価,山岡　将綺,デンソー
+s53-6,飲酒の運転に対する影響評価,山高　大乗,デンソー
+s53-6,飲酒の運転に対する影響評価,中村　典雅,デンソー
+s53-7,潜在リスクに対するドライバの構え行動を促す情報提供,金森　等,名古屋大学
+s53-7,潜在リスクに対するドライバの構え行動を促す情報提供,原田　あすか,名古屋大学
+s53-7,潜在リスクに対するドライバの構え行動を促す情報提供,田中　貴紘,名古屋大学
+s54-1,駐車支援システムの違和感低減に向けた駐車傾向の個人適合及び操舵アシスト,Swarn Singh Rathour,日立製作所
+s54-1,駐車支援システムの違和感低減に向けた駐車傾向の個人適合及び操舵アシスト,瀬戸　信治,日立製作所
+s54-1,駐車支援システムの違和感低減に向けた駐車傾向の個人適合及び操舵アシスト,前田　健太,日立製作所
+s54-1,駐車支援システムの違和感低減に向けた駐車傾向の個人適合及び操舵アシスト,田代　直之,日立製作所
+s54-2,自動運転による狭路すれ違いのための対向車進行軌跡予測手法および軌道計画技術の開発,DANIEL GABRIEL,日立製作所
+s54-2,自動運転による狭路すれ違いのための対向車進行軌跡予測手法および軌道計画技術の開発,稲葉　龍,日立製作所
+s54-2,自動運転による狭路すれ違いのための対向車進行軌跡予測手法および軌道計画技術の開発,今井　正人,日立製作所
+s54-2,自動運転による狭路すれ違いのための対向車進行軌跡予測手法および軌道計画技術の開発,土屋　舜太郎,日立製作所
+s55-1,石油連盟－日本自動車工業会間のCO2低減に関する共同研究（AOIプロジェクト）について<br>-（第3報）-,山口　勝彦,トヨタ自動車
+s55-1,石油連盟－日本自動車工業会間のCO2低減に関する共同研究（AOIプロジェクト）について<br>-（第3報）-,林　倫,トヨタ自動車
+s57-4,小型2ストローク対向ピストン型パワーユニットの研究,大川原　育未,日本大学
+s57-4,小型2ストローク対向ピストン型パワーユニットの研究,渡邊　操,日本大学
+s57-4,小型2ストローク対向ピストン型パワーユニットの研究,飯島　晃良,日本大学
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,近藤　照明,豊田中央研究所
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,植田　玲子,豊田中央研究所
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,政所　良行,豊田中央研究所
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,西川　一明,豊田中央研究所
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,冬頭　孝之,豊田中央研究所
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,福井　健二,豊田中央研究所
+s58-4,ディーゼル代替アルコール拡散燃焼技術（第1報）<br>-着火手段の比較および最小火種要件-,脇坂　佳史,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,近藤　照明,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,植田　玲子,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,政所　良行,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,西川　一明,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,冬頭　孝之,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,福井　健二,豊田中央研究所
+s58-5,ディーゼル代替アルコール拡散燃焼技術（第2報）<br>-メタノール単一燃料によるパイロット点火・メイン拡散燃焼-,脇坂　佳史,豊田中央研究所
+s59-3,ピストンスカート形状が摺動部の油膜体積におよぼす影響,伊東　明美,東京都市大学
+s59-3,ピストンスカート形状が摺動部の油膜体積におよぼす影響,石川　泰裕,東京都市大学
+s59-3,ピストンスカート形状が摺動部の油膜体積におよぼす影響,又吉　琉翔,東京都市大学
+s59-4,水素エンジンにおいて乳化したエンジンオイルの水分蒸発特性に関する研究,伊東　明美,東京都市大学
+s59-4,水素エンジンにおいて乳化したエンジンオイルの水分蒸発特性に関する研究,市村　凌裕,東京都市大学
+s59-4,水素エンジンにおいて乳化したエンジンオイルの水分蒸発特性に関する研究,本宮　一稀,東京都市大学
+s59-4,水素エンジンにおいて乳化したエンジンオイルの水分蒸発特性に関する研究,檜山　大輔,東京都市大学
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,玉野　篤央,トヨタ自動車
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,山守　一雄,トヨタ自動車
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,植松　裕太,トヨタ自動車
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,須藤　淳一,トヨタ自動車
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,石崎　超矢,トヨタ自動車
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,奈良　俊佑,トヨタ自動車
+s59-6,省燃費フラット粘度オイル JASO GLV-2油 0W-16の開発,平野　聡伺,トヨタ自動車
+s60-6,マルチツールをオンライン連成するCo-Simulation環境の構築（第6報）<br>-機械学習を用いた1Dサーマルプラントモデルのサロゲートモデル構築-,高畑　智規,本田技研工業
+s60-6,マルチツールをオンライン連成するCo-Simulation環境の構築（第6報）<br>-機械学習を用いた1Dサーマルプラントモデルのサロゲートモデル構築-,緒方　健一郎,本田技研工業
+s60-6,マルチツールをオンライン連成するCo-Simulation環境の構築（第6報）<br>-機械学習を用いた1Dサーマルプラントモデルのサロゲートモデル構築-,小出　景二郎,本田技研工業
+s60-6,マルチツールをオンライン連成するCo-Simulation環境の構築（第6報）<br>-機械学習を用いた1Dサーマルプラントモデルのサロゲートモデル構築-,田中　浩平,本田技研工業
+s60-6,マルチツールをオンライン連成するCo-Simulation環境の構築（第6報）<br>-機械学習を用いた1Dサーマルプラントモデルのサロゲートモデル構築-,渡部　一晃,本田技研工業
+s61-1,エレメカ連成1Dモデルを用いたTier1，Tier2サプライヤの連携による回路解析手法の精度検証,稲葉　雅司,デンソー
+s61-1,エレメカ連成1Dモデルを用いたTier1，Tier2サプライヤの連携による回路解析手法の精度検証,篠田　卓也,デンソー
+s61-2,MBDを利用した放熱材料配置のロバスト設計の精度検証,稲葉　雅司,デンソー
+s61-2,MBDを利用した放熱材料配置のロバスト設計の精度検証,橋本　一成,デンソー
+s61-2,MBDを利用した放熱材料配置のロバスト設計の精度検証,篠田　卓也,デンソー
+s61-3,低温でのアクチュエータ駆動実機評価 - アルミ電解コンデンサ低温特性の影響調査 -,稲葉　雅司,デンソー
+s61-3,低温でのアクチュエータ駆動実機評価 - アルミ電解コンデンサ低温特性の影響調査 -,橋本　一成,デンソー
+s61-3,低温でのアクチュエータ駆動実機評価 - アルミ電解コンデンサ低温特性の影響調査 -,山本　真義,名古屋大学
+s61-3,低温でのアクチュエータ駆動実機評価 - アルミ電解コンデンサ低温特性の影響調査 -,篠田　卓也,デンソー
+s61-4,MBDによるTier1 Tier2連携のための抵抗器及び基板モデリング,稲葉　雅司,デンソー
+s61-4,MBDによるTier1 Tier2連携のための抵抗器及び基板モデリング,篠田　卓也,デンソー
+s61-5,Tier1 Tier2間のMBD連携の為の半導体モデル精度の影響とアクチュエーター駆動回路動作への適用検討,稲葉　雅司,デンソー
+s61-5,Tier1 Tier2間のMBD連携の為の半導体モデル精度の影響とアクチュエーター駆動回路動作への適用検討,橋本　一成,デンソー
+s61-5,Tier1 Tier2間のMBD連携の為の半導体モデル精度の影響とアクチュエーター駆動回路動作への適用検討,篠田　卓也,デンソー
+s6-2,ディーゼルエンジンにおける筒内水噴射を用いたNOx低減ストラテジー（第2報）<br>-筒内水成層コンセプトの高負荷条件への適用-,稲垣　和久,豊田中央研究所
+s6-2,ディーゼルエンジンにおける筒内水噴射を用いたNOx低減ストラテジー（第2報）<br>-筒内水成層コンセプトの高負荷条件への適用-,近藤　照明,豊田中央研究所
+s6-2,ディーゼルエンジンにおける筒内水噴射を用いたNOx低減ストラテジー（第2報）<br>-筒内水成層コンセプトの高負荷条件への適用-,西川　一明,豊田中央研究所
+s62-4,運転者の認知能力に応じた支援コンセプトの導出,岡田　健太,マツダ
+s62-4,運転者の認知能力に応じた支援コンセプトの導出,山崎　陽,マツダ
+s62-4,運転者の認知能力に応じた支援コンセプトの導出,大林　弘宗,マツダ
+s62-4,運転者の認知能力に応じた支援コンセプトの導出,道田　奈々江,マツダ
+s62-4,運転者の認知能力に応じた支援コンセプトの導出,本田　正徳,マツダ
+s62-4,運転者の認知能力に応じた支援コンセプトの導出,鈴木　邦典,マツダ
+s64-2,Development of optimized GPF performances based on GPF Model,Hyungjun Kim,Hyundai Motor
+s64-2,Development of optimized GPF performances based on GPF Model,Jiho Cho,Hyundai Motor
+s64-2,Development of optimized GPF performances based on GPF Model,Sangmin Lee,Hyundai Motor
+s64-2,Development of optimized GPF performances based on GPF Model,Sungmu Choi,Hyundai Motor
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,小野　丈,東海大学
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,川本　裕樹,東海大学
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,竹内　那智,東海大学
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,奈良　祥太朗,東海大学
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,福島　直哉,東海大学
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,野原　徹雄,東海大学
+s64-4,PIV-DDMを用いた尿素SCRシステムにおける噴霧液滴挙動のシミュレーションと性能予測,落合　成行,東海大学
+s65-2,点火時期を遅角した場合の質量燃焼割合50%クランク角度と指圧波形中の低次周波数成分との関係,長島　慶一,本田技術研究所
+s66-3,Integrated Development of Chassis and Powertrain Systems: Enhancing Vehicle Motion Control through Predictive Dynamics and Virtual Validation,Felix Matthies,IAV
+s66-3,Integrated Development of Chassis and Powertrain Systems: Enhancing Vehicle Motion Control through Predictive Dynamics and Virtual Validation,Marcus Perner,IAV
+s66-3,Integrated Development of Chassis and Powertrain Systems: Enhancing Vehicle Motion Control through Predictive Dynamics and Virtual Validation,Mark Wielitzka,IAV
+s66-3,Integrated Development of Chassis and Powertrain Systems: Enhancing Vehicle Motion Control through Predictive Dynamics and Virtual Validation,Wei Han,IAV
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,伊藤　和樹,マツダ
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,清水　圭吾,マツダ
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,中村　優佑,マツダ
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,土黒　聖斗,マツダ
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,平原　美恵,マツダ
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,桝井　茜,マツダ
+s67-1,車室内空気質向上のための車室内微粒子の数値解析,國府田　由紀,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,伊藤　和樹,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,河上　晃希,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,研井　暁,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,清水　圭吾,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,中村　優祐,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,土黒　聖斗,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,平原　美恵,マツダ
+s67-2,空調効率化と温熱快適に向けた人体各部位への対流熱伝達の検討,桝井　茜,マツダ
+s67-4,BEVにおける熱マネジメントシステムの1Dモデル開発,安田　陽介,デンソー
+s67-4,BEVにおける熱マネジメントシステムの1Dモデル開発,垣田　健,デンソー
+s67-4,BEVにおける熱マネジメントシステムの1Dモデル開発,佐藤　裕介,デンソー
+s67-4,BEVにおける熱マネジメントシステムの1Dモデル開発,須藤　知宏,デンソー
+s68-5,タイヤ特性を考慮した電動パワーステアリングによる過渡ヨー応答の改善,横井　大亮,スズキ
+s68-5,タイヤ特性を考慮した電動パワーステアリングによる過渡ヨー応答の改善,関　泰典,スズキ
+s68-5,タイヤ特性を考慮した電動パワーステアリングによる過渡ヨー応答の改善,森元　大樹,スズキ
+s69-2,Development of Tire and Vehicle Performance Prediction Model using Machine Learning,JinSil Kyeong,Hyundai Motor
+s69-2,Development of Tire and Vehicle Performance Prediction Model using Machine Learning,Yeonsang Yoo,Hyundai Motor
+s69-2,Development of Tire and Vehicle Performance Prediction Model using Machine Learning,Yongdae Kim,Hyundai Motor
+s69-4,前方路面におけるタイヤ・路面間の摩擦特性推定システム構築に関する研究<br>-前方路面の摩擦特性推定システムに向けたセンサ選定とアルゴリズム構築-,栗谷川　幸代,日本大学
+s69-4,前方路面におけるタイヤ・路面間の摩擦特性推定システム構築に関する研究<br>-前方路面の摩擦特性推定システムに向けたセンサ選定とアルゴリズム構築-,景山　一郎,日本大学
+s69-4,前方路面におけるタイヤ・路面間の摩擦特性推定システム構築に関する研究<br>-前方路面の摩擦特性推定システムに向けたセンサ選定とアルゴリズム構築-,原口　哲之理,日本大学
+s69-4,前方路面におけるタイヤ・路面間の摩擦特性推定システム構築に関する研究<br>-前方路面の摩擦特性推定システムに向けたセンサ選定とアルゴリズム構築-,渡辺　淳士,日本大学
+s69-5,路面摩擦計測システム構築に向けた新たな取り組み,栗谷川　幸代,日本大学
+s69-5,路面摩擦計測システム構築に向けた新たな取り組み,原口　哲之理,日本大学
+s69-5,路面摩擦計測システム構築に向けた新たな取り組み,渡辺　淳士,日本大学
+s69-6,タイヤホイールの変形を利用した車直進走行時の路面接地荷重の測定,横井　大亮,スズキ
+s69-6,タイヤホイールの変形を利用した車直進走行時の路面接地荷重の測定,関野　直規,スズキ
+s69-6,タイヤホイールの変形を利用した車直進走行時の路面接地荷重の測定,小西　健太,スズキ
+s69-6,タイヤホイールの変形を利用した車直進走行時の路面接地荷重の測定,森元　大樹,スズキ
+s70-3,自動車破砕残渣のマテリアルリサイクル技術の開発,井沢　省吾,名古屋大学
+s70-3,自動車破砕残渣のマテリアルリサイクル技術の開発,吉村　彰記,名古屋大学
+s70-3,自動車破砕残渣のマテリアルリサイクル技術の開発,漆山　雄太,名古屋大学
+s71-2,4輪インホイールモータのトルク制御に基づくスリップ率推定手法の開発,安島　俊幸,日立製作所
+s71-2,4輪インホイールモータのトルク制御に基づくスリップ率推定手法の開発,山崎　勝,日立製作所
+s71-2,4輪インホイールモータのトルク制御に基づくスリップ率推定手法の開発,初瀬　渉,日立製作所
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,鵜飼　洋平,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,郡司　宙輝,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,志岐　一輝,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,成元　椋祐,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,前田　定治,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,倉地　忍,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,村田　直也,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,長倉　朱里,本田技研工業
+s71-4,ドライバーの感性とシンクロする次世代e: HEV制御技術の開発,齋藤　雅利,本田技研工業
+s71-5,Changes in dQ/dV depending on battery abnormalities,Hyunjun Jang,Hyundai Motor
+s71-5,Changes in dQ/dV depending on battery abnormalities,Hyunjun Jo,Hyundai Motor
+s71-5,Changes in dQ/dV depending on battery abnormalities,Sijoong Kim,Hyundai Motor
+s71-5,Changes in dQ/dV depending on battery abnormalities,Taekyu Kang,Hyundai Motor
+s7-2,機械学習を活用したディーゼルエンジン吸気系におけるガス温度の推定,池戸　隆人,豊田中央研究所
+s7-2,機械学習を活用したディーゼルエンジン吸気系におけるガス温度の推定,脇坂　佳史,豊田中央研究所
+s72-1,Future E-Truck Innovation: Next generation e-Powertrain concept for maximum flexibility and cost scaling.,Christoph Danzer,IAV
+s72-1,Future E-Truck Innovation: Next generation e-Powertrain concept for maximum flexibility and cost scaling.,Hubertus Christian Ulmer,IAV
+s72-1,Future E-Truck Innovation: Next generation e-Powertrain concept for maximum flexibility and cost scaling.,Rico Resch,IAV
+s72-1,Future E-Truck Innovation: Next generation e-Powertrain concept for maximum flexibility and cost scaling.,Volker Ambrosius,IAV
+s72-2,1D車両システムモデルを活用したハイブリッド車両の最適な熱及びパワーマネージメント制御の検討,佐藤　圭峰,マツダ
+s73-2,Development of Battery Data Generation Technology <br />Using Time Series Wasserstein GAN based on Deep Learning.,Hyunjun Jang,Hyundai Motor
+s73-2,Development of Battery Data Generation Technology <br />Using Time Series Wasserstein GAN based on Deep Learning.,Taekyu Kang,Hyundai Motor
+s73-2,Development of Battery Data Generation Technology <br />Using Time Series Wasserstein GAN based on Deep Learning.,WOOSUNG KIM,Hyundai Motor
+s73-3,走行中給電による省エネ，省資源社会への貢献,伊藤　淳貴,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,永松　敏樹,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,加藤　直也,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,光田　徹治,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,紺野　由希,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,山口　浩司,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,石原　光浩,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,大杉　拓也,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,大島　圭市,デンソー
+s73-3,走行中給電による省エネ，省資源社会への貢献,谷　恵亮,デンソー
+s76-2,日本語タイトル：<br>内傾機構を備えたパーソナルモビリティビークル(PMV)の制動を伴う障害物回避性能のシミュレーション解析,景山　一郎,日本大学
+s76-2,日本語タイトル：<br>内傾機構を備えたパーソナルモビリティビークル(PMV)の制動を伴う障害物回避性能のシミュレーション解析,原口　哲之理,名古屋大学
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Alba Marquez,Applus+ IDIADA
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Alessandro Gravina,Applus+ IDIADA
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Carles Vidal,Applus+ IDIADA
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Genis Mensa,Applus+ IDIADA
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Gustavo Maturana,Applus+ IDIADA
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Jordi Vinas,Applus+ IDIADA
+s78-1,Development of Sub System Sled-Based Lateral Pole Impact Test,Victor Garcia,Applus+ IDIADA
+s78-2,A Comprehensive Approach to Hydrogen Vehicle Crash Testing Challenges,Carles Vidal Aguado,Applus+ IDIADA
+s78-2,A Comprehensive Approach to Hydrogen Vehicle Crash Testing Challenges,Genis Mensa Vendrell,Applus+ IDIADA
+s78-2,A Comprehensive Approach to Hydrogen Vehicle Crash Testing Challenges,Miguel Angel Gallego Ruiz,Applus+ IDIADA
+s78-2,A Comprehensive Approach to Hydrogen Vehicle Crash Testing Challenges,Victor Garcia Santamaria,Applus+ IDIADA
+s78-3,Raising the bar for heavy quadricycles safety in urban mobility<br>-Structure and occupant protection assessment of a L7-e vehicle through Euro NCAP tailored crash test protocols-,Carles Vidal Aguado,Applus+ IDIADA
+s78-3,Raising the bar for heavy quadricycles safety in urban mobility<br>-Structure and occupant protection assessment of a L7-e vehicle through Euro NCAP tailored crash test protocols-,EMILIA Romero Tienda,Applus+ IDIADA
+s78-3,Raising the bar for heavy quadricycles safety in urban mobility<br>-Structure and occupant protection assessment of a L7-e vehicle through Euro NCAP tailored crash test protocols-,Genis Mensa Vendrell,Applus+ IDIADA
+s78-3,Raising the bar for heavy quadricycles safety in urban mobility<br>-Structure and occupant protection assessment of a L7-e vehicle through Euro NCAP tailored crash test protocols-,Jordi Salvat Pamies,Applus+ IDIADA
+s78-3,Raising the bar for heavy quadricycles safety in urban mobility<br>-Structure and occupant protection assessment of a L7-e vehicle through Euro NCAP tailored crash test protocols-,Victor Garcia Santamaria,Applus+ IDIADA
+s78-5,前突時のシート位置による乗員下肢傷害の研究,永野　翔悟,トヨタ自動車
+s78-5,前突時のシート位置による乗員下肢傷害の研究,今井　裕明,トヨタ自動車
+s78-5,前突時のシート位置による乗員下肢傷害の研究,根岸　俊充,トヨタ自動車
+s78-5,前突時のシート位置による乗員下肢傷害の研究,糟谷　勇太,トヨタ自動車
+s78-5,前突時のシート位置による乗員下肢傷害の研究,中根　裕司,トヨタ自動車
+s78-5,前突時のシート位置による乗員下肢傷害の研究,林　重希,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,宮崎　浩,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,宮﨑　拓真,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,高比良　与志樹,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,今井　裕明,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,中根　裕司,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,飯塚　洋二朗,トヨタ自動車
+s78-6,THUMSを用いた歩行者衝突における筋活性の影響調査,林　重希,トヨタ自動車
+s79-1,平均体型女性バーチャル人体モデルの開発,松田　貴男,トヨタ自動車
+s79-1,平均体型女性バーチャル人体モデルの開発,藤田　騎行,トヨタ自動車
+s79-1,平均体型女性バーチャル人体モデルの開発,北川　裕一,トヨタ自動車
+s79-2,単胎妊婦乗員モデル開発および当該モデルを用いた衝突時の胎盤剥離傷害予測,泉山　朋大,マツダ
+s79-2,単胎妊婦乗員モデル開発および当該モデルを用いた衝突時の胎盤剥離傷害予測,朝日　龍介,マツダ
+s79-2,単胎妊婦乗員モデル開発および当該モデルを用いた衝突時の胎盤剥離傷害予測,辻　温乃,マツダ
+s81-1,高密度実装電子部品の製造品質を担保するためのロバスト設計の検討と考察,古川　智之,トヨタ自動車
+s81-1,高密度実装電子部品の製造品質を担保するためのロバスト設計の検討と考察,柴田　靖文,トヨタ自動車
+s81-1,高密度実装電子部品の製造品質を担保するためのロバスト設計の検討と考察,西森　久雄,トヨタ自動車
+s81-1,高密度実装電子部品の製造品質を担保するためのロバスト設計の検討と考察,折中　ミイユ,トヨタ自動車
+s81-1,高密度実装電子部品の製造品質を担保するためのロバスト設計の検討と考察,武藤　潤,トヨタ自動車
+s81-2,重回帰モデルによるエンジンの物理量センサー値の予測,小林　謙太,マツダ
+s81-2,重回帰モデルによるエンジンの物理量センサー値の予測,森実　健一,マツダ
+s81-2,重回帰モデルによるエンジンの物理量センサー値の予測,矢野　佑樹,マツダ
+s81-2,重回帰モデルによるエンジンの物理量センサー値の予測,柚木　伸夫,マツダ
+s81-2,重回帰モデルによるエンジンの物理量センサー値の予測,和田　幸史朗,マツダ
+s81-7,AI-based low pressure fuel pump pressure sensor prediction model by Super TML,JUNYOUNG SHIN,Hyundai Motor
+s81-7,AI-based low pressure fuel pump pressure sensor prediction model by Super TML,SOOIN LEE,Hyundai Motor
+s81-7,AI-based low pressure fuel pump pressure sensor prediction model by Super TML,TACKOON KIM,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,CHULWAN PARK,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,HYEONGWON PARK,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,JIHYUN LEE,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,KYEONGJUN BAEK,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,KYUNGHWAN OH,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,MINGYUN CHUNG,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,SOOHWAN KIM,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,TAEGEUN KIM,Hyundai Motor
+s82-3,Study on Plastic Materials for FCEV Thermal Management System Components : Comparative Analysis of PA and PP,WOOKIL JANG,Hyundai Motor
+s83-1,耐火構造の違いが繊維強化樹脂複合材料の燃焼性に及ぼす影響,安田　周平,マツダ
+s83-1,耐火構造の違いが繊維強化樹脂複合材料の燃焼性に及ぼす影響,山田　裕紀,マツダ
+s83-1,耐火構造の違いが繊維強化樹脂複合材料の燃焼性に及ぼす影響,小川　淳一,マツダ
+s84-1,A Study of Haptic Simulator for Virtual Door Open &amp; Close Feeling Test,Jaehoon Chung,Hyundai Motor
+s84-2,Customized interior lamp control<br />by detecting and determining the condition of passengers,SUNG HO PARK,Hyundai Motor
+s84-4,Assessing Driver Engagement in a Driving Simulator,Cristina Periago Linares,Applus+ IDIADA
+s84-4,Assessing Driver Engagement in a Driving Simulator,Elena Castro Gonzalez,Applus+ IDIADA
+s84-4,Assessing Driver Engagement in a Driving Simulator,Francesco Deiana,Applus+ IDIADA
+s84-4,Assessing Driver Engagement in a Driving Simulator,James Jackson,Applus+ IDIADA
+s84-5,A Study on Optimal Energy use for operating moving parts in vehicle,Jaeyoon Ryoo,Hyundai Motor
+s84-5,A Study on Optimal Energy use for operating moving parts in vehicle,Kyungsup Chun,Hyundai Motor
+s84-5,A Study on Optimal Energy use for operating moving parts in vehicle,MINHYUNG BYUN,Hyundai Motor
+s84-5,A Study on Optimal Energy use for operating moving parts in vehicle,Sanghyun Lee,Hyundai Motor
+s84-5,A Study on Optimal Energy use for operating moving parts in vehicle,Seokjin Park,Hyundai Motor
+s8-6,CFDを用いたワイパー作動時のウォッシャ液流れ予測手法,安岡　志朗,トヨタ自動車
+s8-6,CFDを用いたワイパー作動時のウォッシャ液流れ予測手法,伊藤　祐太,トヨタ自動車
+s8-6,CFDを用いたワイパー作動時のウォッシャ液流れ予測手法,水谷　有沙,トヨタ自動車
+s8-6,CFDを用いたワイパー作動時のウォッシャ液流れ予測手法,中村　竣,トヨタ自動車
+s9-3,グラフ構造化分析を用いた自動車の空気抵抗に寄与する流れ場の同定,瀬尾　晃平,マツダ
+s9-3,グラフ構造化分析を用いた自動車の空気抵抗に寄与する流れ場の同定,清水　圭吾,マツダ
+s9-3,グラフ構造化分析を用いた自動車の空気抵抗に寄与する流れ場の同定,中村　優佑,マツダ
+s9-3,グラフ構造化分析を用いた自動車の空気抵抗に寄与する流れ場の同定,平岡　武宜,マツダ
+s9-3,グラフ構造化分析を用いた自動車の空気抵抗に寄与する流れ場の同定,目良　貢,マツダ
+s9-5,風切り音性能開発を目的とした，Aピラー周りの剥離点予測に必要なCFD空間解像度の検討,渡会　昌之,本田技研工業
+s9-5,風切り音性能開発を目的とした，Aピラー周りの剥離点予測に必要なCFD空間解像度の検討,樋渡　一晃,本田技研工業
+s9-5,風切り音性能開発を目的とした，Aピラー周りの剥離点予測に必要なCFD空間解像度の検討,米満　竜太,本田技研工業
